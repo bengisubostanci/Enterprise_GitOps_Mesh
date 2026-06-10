@@ -1,3 +1,5 @@
+<img width="1024" height="559" alt="808d0677-7fa6-4ae4-b5ea-d7082d54d876" src="https://github.com/user-attachments/assets/2697f490-16e3-471a-a73d-f17440fefad0" />
+
 🚀 Enterprise GitOps Mesh
 Enterprise GitOps Mesh is a production-ready, multi-tenant bulut-yerel (cloud-native) altyapı projesidir. Bu proje; modern mikroservis mimarilerinde yazılım geliştirme süreçleri ile altyapı yönetimini (Infrastructure as Code) birbirinden tamamen izole etmek, insan hatasını sıfıra indirmek ve continuous delivery (CD) süreçlerini GitOps felsefesiyle otomatize etmek amacıyla tasarlanmıştır.
 
