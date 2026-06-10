@@ -5,6 +5,7 @@ Proje bünyesinde, Kubernetes kümesi üzerinde development ve staging ortamlar�
 
 🏗️ Architecture & Directory Structure
 Proje, kurumsal dünyadaki "Single Source of Truth" (Tek Gerçeklik Kaynağı) standartlarına sadık kalınarak, tüm ortam parametrelerinin tek bir merkezden (values-driven) yönetilebileceği esnek bir declarative yapıda kurgulanmıştır.
+
 Enterprise_GitOps_Mesh/
 │
 ├── kind-cluster.yaml         # Kubernetes cluster konfigürasyonu
@@ -17,6 +18,7 @@ Enterprise_GitOps_Mesh/
         └── values-staging.yaml # Staging ortamı değişkenleri
         └── templates/
             └── deployment.yaml # Dinamik ve şablonlaştırılmış Kubernetes Deployment manifestosu
+            
 
 🛠️ Tech Stack & Key Core Features
 Kubernetes (Kind): Lokal ortamda multi-node kurumsal küme simülasyonu.
